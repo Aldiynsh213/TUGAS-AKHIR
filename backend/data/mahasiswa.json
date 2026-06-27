@@ -1,0 +1,656 @@
+[
+  {
+    "nim": "21011001",
+    "nama": "Ahmad Rizky Pratama",
+    "email": "ahmad.rizky@student.universitas.ac.id",
+    "phone": "081234567890",
+    "jurusan": "Informatika",
+    "ipk": 3.75,
+    "semester": 5,
+    "tahun_angkatan": 2021,
+    "alamat": "Jl. Merdeka No. 12, Jakarta Selatan",
+    "tanggal_lahir": "2002-03-15",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Sistem Rekomendasi Pembelajaran Personal Menggunakan Machine Learning",
+      "dosen_pembimbing": "Prof. Dr. Budi Santoso",
+      "anggota_ukm": [
+        "Robotika",
+        "Programming"
+      ],
+      "sks_lulus": 100,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_skripsi": "Sistem Rekomendasi Pembelajaran Personal Menggunakan Machine Learning",
+    "dosen_pembimbing": "Prof. Dr. Budi Santoso",
+    "anggota_ukm": [
+      "Robotika",
+      "Programming"
+    ]
+  },
+  {
+    "nim": "21012002",
+    "nama": "Dewi Sartika Wulandari",
+    "email": "dewi.sartika@student.universitas.ac.id",
+    "phone": "082345678901",
+    "jurusan": "Teknik Elektro",
+    "ipk": 3.52,
+    "semester": 5,
+    "tahun_angkatan": 2021,
+    "alamat": "Jl. Sudirman No. 45, Bandung",
+    "tanggal_lahir": "2003-01-22",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Implementasi IoT pada Sistem Monitoring Energi Listrik Rumah Tangga",
+      "dosen_pembimbing": "Dr. Andi Wijaya",
+      "anggota_ukm": [
+        "Elektronika",
+        "Paduan Suara"
+      ],
+      "sks_lulus": 100,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_skripsi": "Implementasi IoT pada Sistem Monitoring Energi Listrik Rumah Tangga",
+    "dosen_pembimbing": "Dr. Andi Wijaya",
+    "anggota_ukm": [
+      "Elektronika",
+      "Paduan Suara"
+    ]
+  },
+  {
+    "nim": "20023003",
+    "nama": "Bima Sakti Kusuma",
+    "email": "bima.sakti@student.universitas.ac.id",
+    "phone": "+6283456789012",
+    "jurusan": "Manajemen",
+    "ipk": 3.28,
+    "semester": 7,
+    "tahun_angkatan": 2020,
+    "alamat": "Jl. Ahmad Yani No. 78, Surabaya",
+    "tanggal_lahir": "2001-07-10",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Analisis Pengaruh Digital Marketing terhadap Loyalitas Pelanggan UMKM",
+      "dosen_pembimbing": "Dr. Ratna Dewi",
+      "anggota_ukm": [
+        "Kewirausahaan",
+        "Jurnalistik"
+      ],
+      "sks_lulus": 140,
+      "tahun_lulus_estimasi": 2024
+    },
+    "judul_skripsi": "Analisis Pengaruh Digital Marketing terhadap Loyalitas Pelanggan UMKM",
+    "dosen_pembimbing": "Dr. Ratna Dewi",
+    "anggota_ukm": [
+      "Kewirausahaan",
+      "Jurnalistik"
+    ]
+  },
+  {
+    "nim": "21024004",
+    "nama": "Citra Lestari Handayani",
+    "email": "citra.lestari@student.universitas.ac.id",
+    "phone": "085678901234",
+    "jurusan": "Akuntansi",
+    "ipk": 3.85,
+    "semester": 3,
+    "tahun_angkatan": 2022,
+    "alamat": "Jl. Gatot Subroto No. 23, Yogyakarta",
+    "tanggal_lahir": "2004-05-18",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Debat",
+        "English Club"
+      ],
+      "sks_lulus": 60,
+      "tahun_lulus_estimasi": 2026
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Debat",
+      "English Club"
+    ]
+  },
+  {
+    "nim": "19025005",
+    "nama": "Eko Prasetyo Wibowo",
+    "email": "eko.prasetyo@student.universitas.ac.id",
+    "phone": "6289012345678",
+    "jurusan": "Psikologi",
+    "ipk": 3.12,
+    "semester": 8,
+    "tahun_angkatan": 2019,
+    "alamat": "Jl. Diponegoro No. 56, Semarang",
+    "tanggal_lahir": "2000-11-30",
+    "jenis_kelamin": "L",
+    "status": "Cuti",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Hubungan antara Media Sosial dan Kecemasan Sosial pada Remaja Urban",
+      "dosen_pembimbing": "Prof. Dr. Siti Rahayu",
+      "anggota_ukm": [
+        "Teater",
+        "Fotografi"
+      ],
+      "sks_lulus": 144,
+      "tahun_lulus_estimasi": 2024
+    },
+    "judul_skripsi": "Hubungan antara Media Sosial dan Kecemasan Sosial pada Remaja Urban",
+    "dosen_pembimbing": "Prof. Dr. Siti Rahayu",
+    "anggota_ukm": [
+      "Teater",
+      "Fotografi"
+    ]
+  },
+  {
+    "nim": "21026006",
+    "nama": "Fitriani Nur Aini",
+    "email": "fitriani.nur@student.universitas.ac.id",
+    "phone": "08111222333",
+    "jurusan": "Kedokteran",
+    "ipk": 3.95,
+    "semester": 4,
+    "tahun_angkatan": 2022,
+    "alamat": "Jl. Imam Bonjol No. 89, Medan",
+    "tanggal_lahir": "2003-09-05",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Paduan Suara",
+        "KSR PMI"
+      ],
+      "sks_lulus": 80,
+      "tahun_lulus_estimasi": 2027
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Paduan Suara",
+      "KSR PMI"
+    ]
+  },
+  {
+    "nim": "20027007",
+    "nama": "Gilang Ramadhan Putra",
+    "email": "gilang.ramadhan@student.universitas.ac.id",
+    "phone": "082223334444",
+    "jurusan": "Hukum",
+    "ipk": 2.87,
+    "semester": 6,
+    "tahun_angkatan": 2020,
+    "alamat": "Jl. Thamrin No. 34, Makassar",
+    "tanggal_lahir": "2002-02-14",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Tinjauan Yuridis Perlindungan Konsumen dalam Transaksi E-Commerce",
+      "dosen_pembimbing": "Dr. Hendra Gunawan",
+      "anggota_ukm": [
+        "Debat Hukum",
+        "Futsal"
+      ],
+      "sks_lulus": 120,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_skripsi": "Tinjauan Yuridis Perlindungan Konsumen dalam Transaksi E-Commerce",
+    "dosen_pembimbing": "Dr. Hendra Gunawan",
+    "anggota_ukm": [
+      "Debat Hukum",
+      "Futsal"
+    ]
+  },
+  {
+    "nim": "22028008",
+    "nama": "Hana Saraswati Dewi",
+    "email": "hana.saraswati@student.universitas.ac.id",
+    "phone": "085554443332",
+    "jurusan": "Informatika",
+    "ipk": 3.67,
+    "semester": 2,
+    "tahun_angkatan": 2023,
+    "alamat": "Jl. Pahlawan No. 67, Malang",
+    "tanggal_lahir": "2005-04-20",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Programming",
+        "Robotika"
+      ],
+      "sks_lulus": 40,
+      "tahun_lulus_estimasi": 2027
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Programming",
+      "Robotika"
+    ]
+  },
+  {
+    "nim": "21029009",
+    "nama": "Irfan Maulana Hakim",
+    "email": "irfan.maulana@student.universitas.ac.id",
+    "phone": "081234554433",
+    "jurusan": "Teknik Elektro",
+    "ipk": 3.42,
+    "semester": 4,
+    "tahun_angkatan": 2022,
+    "alamat": "Jl. Veteran No. 90, Palembang",
+    "tanggal_lahir": "2003-08-12",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Elektronika",
+        "Basket"
+      ],
+      "sks_lulus": 80,
+      "tahun_lulus_estimasi": 2026
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Elektronika",
+      "Basket"
+    ]
+  },
+  {
+    "nim": "20030010",
+    "nama": "Jasmine Kusumaningrum",
+    "email": "jasmine.kusuma@student.universitas.ac.id",
+    "phone": "082211334455",
+    "jurusan": "Manajemen",
+    "ipk": 3.55,
+    "semester": 7,
+    "tahun_angkatan": 2020,
+    "alamat": "Jl. Cendrawasih No. 11, Denpasar",
+    "tanggal_lahir": "2002-06-25",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Strategi Branding pada Startup Teknologi di Indonesia",
+      "dosen_pembimbing": "Dr. Dian Lestari",
+      "anggota_ukm": [
+        "Kewirausahaan",
+        "Dance"
+      ],
+      "sks_lulus": 140,
+      "tahun_lulus_estimasi": 2024
+    },
+    "judul_skripsi": "Strategi Branding pada Startup Teknologi di Indonesia",
+    "dosen_pembimbing": "Dr. Dian Lestari",
+    "anggota_ukm": [
+      "Kewirausahaan",
+      "Dance"
+    ]
+  },
+  {
+    "nim": "22031011",
+    "nama": "Kevin Aditya Nugraha",
+    "email": "kevin.aditya@student.universitas.ac.id",
+    "phone": "+6281133224455",
+    "jurusan": "Akuntansi",
+    "ipk": 3.33,
+    "semester": 1,
+    "tahun_angkatan": 2023,
+    "alamat": "Jl. Mawar No. 22, Samarinda",
+    "tanggal_lahir": "2005-12-01",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Futsal",
+        "Jurnalistik"
+      ],
+      "sks_lulus": 20,
+      "tahun_lulus_estimasi": 2027
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Futsal",
+      "Jurnalistik"
+    ]
+  },
+  {
+    "nim": "21032012",
+    "nama": "Lina Marlina Tampubolon",
+    "email": "lina.marlina@student.universitas.ac.id",
+    "phone": "085566778899",
+    "jurusan": "Psikologi",
+    "ipk": 3.71,
+    "semester": 5,
+    "tahun_angkatan": 2021,
+    "alamat": "Jl. Melati No. 33, Manado",
+    "tanggal_lahir": "2003-03-08",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Pengaruh Musik Klasik terhadap Konsentrasi Belajar Mahasiswa",
+      "dosen_pembimbing": "Dr. Rina Wulandari",
+      "anggota_ukm": [
+        "Paduan Suara",
+        "Teater"
+      ],
+      "sks_lulus": 100,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_skripsi": "Pengaruh Musik Klasik terhadap Konsentrasi Belajar Mahasiswa",
+    "dosen_pembimbing": "Dr. Rina Wulandari",
+    "anggota_ukm": [
+      "Paduan Suara",
+      "Teater"
+    ]
+  },
+  {
+    "nim": "19033013",
+    "nama": "Muhammad Fajar Ibrahim",
+    "email": "muhammad.fajar@student.universitas.ac.id",
+    "phone": "081998877665",
+    "jurusan": "Kedokteran",
+    "ipk": 2.76,
+    "semester": 9,
+    "tahun_angkatan": 2019,
+    "alamat": "Jl. Kenanga No. 44, Padang",
+    "tanggal_lahir": "2000-09-17",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Efektivitas Terapi Kombinasi pada Pasien Diabetes Melitus Tipe 2",
+      "dosen_pembimbing": "Prof. Dr. Amiruddin",
+      "anggota_ukm": [
+        "KSR PMI",
+        "Rohani Islam"
+      ],
+      "sks_lulus": 160,
+      "tahun_lulus_estimasi": 2024
+    },
+    "judul_skripsi": "Efektivitas Terapi Kombinasi pada Pasien Diabetes Melitus Tipe 2",
+    "dosen_pembimbing": "Prof. Dr. Amiruddin",
+    "anggota_ukm": [
+      "KSR PMI",
+      "Rohani Islam"
+    ]
+  },
+  {
+    "nim": "20034014",
+    "nama": "Nadia Safitri Anggraini",
+    "email": "nadia.safitri@student.universitas.ac.id",
+    "phone": "082233445566",
+    "jurusan": "Hukum",
+    "ipk": 3.88,
+    "semester": 6,
+    "tahun_angkatan": 2020,
+    "alamat": "Jl. Anggrek No. 55, Balikpapan",
+    "tanggal_lahir": "2001-05-03",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "Analisis Hukum Perlindungan Data Pribadi di Era Digital",
+      "dosen_pembimbing": "Dr. Yulia Hartanti",
+      "anggota_ukm": [
+        "Debat Hukum",
+        "English Club"
+      ],
+      "sks_lulus": 120,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_skripsi": "Analisis Hukum Perlindungan Data Pribadi di Era Digital",
+    "dosen_pembimbing": "Dr. Yulia Hartanti",
+    "anggota_ukm": [
+      "Debat Hukum",
+      "English Club"
+    ]
+  },
+  {
+    "nim": "21035015",
+    "nama": "Oscar Putra Wijaya",
+    "email": "oscar.putra@student.universitas.ac.id",
+    "phone": "085511223344",
+    "jurusan": "Informatika",
+    "ipk": 3.22,
+    "semester": 3,
+    "tahun_angkatan": 2022,
+    "alamat": "Jl. Flamboyan No. 66, Batam",
+    "tanggal_lahir": "2004-07-28",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Programming",
+        "E-Sport"
+      ],
+      "sks_lulus": 60,
+      "tahun_lulus_estimasi": 2026
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Programming",
+      "E-Sport"
+    ]
+  },
+  {
+    "nim": "22036016",
+    "nama": "Putri Ayu Lestari",
+    "email": "putri.ayu@student.universitas.ac.id",
+    "phone": "081122334455",
+    "jurusan": "Teknik Elektro",
+    "ipk": 3.6,
+    "semester": 1,
+    "tahun_angkatan": 2023,
+    "alamat": "Jl. Bougenville No. 77, Pontianak",
+    "tanggal_lahir": "2005-01-15",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S1",
+    "info_tambahan": {
+      "judul_skripsi": "",
+      "dosen_pembimbing": "",
+      "anggota_ukm": [
+        "Tari Tradisional",
+        "Elektronika"
+      ],
+      "sks_lulus": 20,
+      "tahun_lulus_estimasi": 2027
+    },
+    "judul_skripsi": "",
+    "dosen_pembimbing": "",
+    "anggota_ukm": [
+      "Tari Tradisional",
+      "Elektronika"
+    ]
+  },
+  {
+    "nim": "23041001",
+    "nama": "Rina Amelia Putri",
+    "email": "rina.amelia@student.universitas.ac.id",
+    "phone": "+6281234567890",
+    "jurusan": "Informatika",
+    "ipk": 3.85,
+    "semester": 2,
+    "tahun_angkatan": 2023,
+    "alamat": "Jl. Pendidikan No. 10, Jakarta",
+    "tanggal_lahir": "1998-04-12",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S2",
+    "info_tambahan": {
+      "judul_tesis": "Deep Learning untuk Deteksi Anomali pada Jaringan Komputer",
+      "dosen_promotor": "Prof. Dr. Bambang Santoso",
+      "beasiswa": "LPDP",
+      "publikasi_jurnal": [
+        {
+          "judul": "Survey pada Metode Deep Learning untuk Network Intrusion Detection",
+          "jurnal": "Jurnal Teknik Informatika",
+          "tahun": 2024
+        }
+      ],
+      "jumlah_publikasi": 1,
+      "sks_lulus": 28,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_tesis": "Deep Learning untuk Deteksi Anomali pada Jaringan Komputer",
+    "dosen_promotor": "Prof. Dr. Bambang Santoso",
+    "beasiswa": "LPDP",
+    "publikasi_jurnal": [
+      {
+        "judul": "Survey pada Metode Deep Learning untuk Network Intrusion Detection",
+        "jurnal": "Jurnal Teknik Informatika",
+        "tahun": 2024
+      }
+    ]
+  },
+  {
+    "nim": "23042002",
+    "nama": "Andre Wijaya Kusuma",
+    "email": "andre.wijaya@student.universitas.ac.id",
+    "phone": "0823456789012",
+    "jurusan": "Manajemen",
+    "ipk": 3.72,
+    "semester": 2,
+    "tahun_angkatan": 2023,
+    "alamat": "Jl. Bisnis No. 25, Surabaya",
+    "tanggal_lahir": "1997-09-23",
+    "jenis_kelamin": "L",
+    "status": "Aktif",
+    "tipe": "S2",
+    "info_tambahan": {
+      "judul_tesis": "Pengaruh Kepemimpinan Transformasional terhadap Inovasi Organisasi",
+      "dosen_promotor": "Dr. Citra Dewi Pramesti",
+      "beasiswa": "Beasiswa Unggulan Dikti",
+      "publikasi_jurnal": [],
+      "jumlah_publikasi": 0,
+      "sks_lulus": 28,
+      "tahun_lulus_estimasi": 2025
+    },
+    "judul_tesis": "Pengaruh Kepemimpinan Transformasional terhadap Inovasi Organisasi",
+    "dosen_promotor": "Dr. Citra Dewi Pramesti",
+    "beasiswa": "Beasiswa Unggulan Dikti",
+    "publikasi_jurnal": []
+  },
+  {
+    "nim": "22043003",
+    "nama": "Siti Nurhaliza binti Ismail",
+    "email": "siti.nurhaliza@student.universitas.ac.id",
+    "phone": "0834567890123",
+    "jurusan": "Hukum",
+    "ipk": 3.91,
+    "semester": 3,
+    "tahun_angkatan": 2022,
+    "alamat": "Jl. Hukum No. 30, Bandung",
+    "tanggal_lahir": "1996-02-18",
+    "jenis_kelamin": "P",
+    "status": "Aktif",
+    "tipe": "S2",
+    "info_tambahan": {
+      "judul_tesis": "Harmonisasi Hukum Internasional dan Hukum Nasional dalam Penanganan Kejahatan Siber",
+      "dosen_promotor": "Prof. Dr. Abdul Rahman",
+      "beasiswa": "",
+      "publikasi_jurnal": [
+        {
+          "judul": "Tantangan Penegakan Hukum terhadap Kejahatan Transnasional",
+          "jurnal": "Jurnal Hukum Internasional",
+          "tahun": 2023
+        },
+        {
+          "judul": "Analisis Perbandingan Sistem Hukum Common Law dan Civil Law",
+          "jurnal": "Jurnal Komparasi Hukum",
+          "tahun": 2024
+        }
+      ],
+      "jumlah_publikasi": 2,
+      "sks_lulus": 42,
+      "tahun_lulus_estimasi": 2024
+    },
+    "judul_tesis": "Harmonisasi Hukum Internasional dan Hukum Nasional dalam Penanganan Kejahatan Siber",
+    "dosen_promotor": "Prof. Dr. Abdul Rahman",
+    "beasiswa": "",
+    "publikasi_jurnal": [
+      {
+        "judul": "Tantangan Penegakan Hukum terhadap Kejahatan Transnasional",
+        "jurnal": "Jurnal Hukum Internasional",
+        "tahun": 2023
+      },
+      {
+        "judul": "Analisis Perbandingan Sistem Hukum Common Law dan Civil Law",
+        "jurnal": "Jurnal Komparasi Hukum",
+        "tahun": 2024
+      }
+    ]
+  },
+  {
+    "nim": "22044004",
+    "nama": "Budi Hartono Susanto",
+    "email": "budi.hartono@student.universitas.ac.id",
+    "phone": "6285566778899",
+    "jurusan": "Akuntansi",
+    "ipk": 3.55,
+    "semester": 3,
+    "tahun_angkatan": 2022,
+    "alamat": "Jl. Ekonomi No. 15, Semarang",
+    "tanggal_lahir": "1995-11-05",
+    "jenis_kelamin": "L",
+    "status": "Cuti",
+    "tipe": "S2",
+    "info_tambahan": {
+      "judul_tesis": "Penerapan Artificial Intelligence dalam Audit Internal Perusahaan",
+      "dosen_promotor": "Dr. Eko Prasetyo",
+      "beasiswa": "BUMN",
+      "publikasi_jurnal": [
+        {
+          "judul": "Revolusi AI dalam dunia Akuntansi dan Audit Modern",
+          "jurnal": "Jurnal Akuntansi Indonesia",
+          "tahun": 2023
+        }
+      ],
+      "jumlah_publikasi": 1,
+      "sks_lulus": 42,
+      "tahun_lulus_estimasi": 2024
+    },
+    "judul_tesis": "Penerapan Artificial Intelligence dalam Audit Internal Perusahaan",
+    "dosen_promotor": "Dr. Eko Prasetyo",
+    "beasiswa": "BUMN",
+    "publikasi_jurnal": [
+      {
+        "judul": "Revolusi AI dalam dunia Akuntansi dan Audit Modern",
+        "jurnal": "Jurnal Akuntansi Indonesia",
+        "tahun": 2023
+      }
+    ]
+  }
+]
